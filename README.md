@@ -1,4 +1,4 @@
-# README for s1234567_BDP_A1
+# Hadoop-Taxi-Trip-Analytics
 
 ## Overview
 This assignment includes three tasks implemented using Python and Hadoop Streaming on AWS EMR. The tasks focus on taxi trip analysis using MapReduce programs. The code files and shell scripts are organized in the same folder, and this document provides the necessary steps to run each task.
